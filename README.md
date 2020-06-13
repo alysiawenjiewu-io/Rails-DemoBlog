@@ -22,3 +22,25 @@ Things you may want to cover:
 * Deployment instructions
 
 * ...
+
+
+TODO:
+left off at: 
+https://www.youtube.com/watch?v=wbZ6yrVxScM
+49:45 mins
+Learnt: 
+`rails g controller posts`
+
+`rails g model Post`
+
+`rails db:migrate`
+
+`@` : `@post = Post.new`
+`<`
+`:`
+`::`
+
+rake is a ruby task runner 
+bundle exec
+### .html.erb files
+`<%= %>`
